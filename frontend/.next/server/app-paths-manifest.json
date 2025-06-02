@@ -1,0 +1,9 @@
+{
+  "/admin/page": "app/admin/page.js",
+  "/admin/emplois/page": "app/admin/emplois/page.js",
+  "/emplois/[departement]/[grade]/[section]/page": "app/emplois/[departement]/[grade]/[section]/page.js",
+  "/admin/departements/page": "app/admin/departements/page.js",
+  "/admin/emplois/[id]/edit/page": "app/admin/emplois/[id]/edit/page.js",
+  "/departement/[nom]/page": "app/departement/[nom]/page.js",
+  "/page": "app/page.js"
+}
